@@ -6,6 +6,10 @@ body {
   color: #444444;
 }
 
+.text-primary{
+  color:#3498db;
+}
+
 a {
   color: #3498db;
   text-decoration: none;
